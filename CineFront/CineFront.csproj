@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{476F82E7-9625-495C-A691-1DD5BCDC9132}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CineFront</RootNamespace>
+    <AssemblyName>CineFront</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\muril\OneDrive\Área de Trabalho\Cine+\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>EDF93A3A457BBB3E3A581DDAB7038DD8E58B9C34</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>CineFront_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\Guna UI Framework Ultimate 2.0.0.1_2\Guna UI Framework Ultimate v2.0.0.1 Lib-Master\Guna.UI WinForms\.net 2.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\..\Downloads\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormAlterarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAlterarSenha.Designer.cs">
+      <DependentUpon>FormAlterarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAssentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAssentos.Designer.cs">
+      <DependentUpon>FormAssentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAtualizarCinema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAtualizarCinema.Designer.cs">
+      <DependentUpon>FormAtualizarCinema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormIngressos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIngressos.Designer.cs">
+      <DependentUpon>FormIngressos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Variables\GlobalVariables.cs" />
+    <Compile Include="Models\Cinema.cs" />
+    <Compile Include="Models\Endereco.cs" />
+    <Compile Include="Models\Filme.cs" />
+    <Compile Include="FormAssinaturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAssinaturas.Designer.cs">
+      <DependentUpon>FormAssinaturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAtualizarFilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAtualizarFilme.Designer.cs">
+      <DependentUpon>FormAtualizarFilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCadastro.Designer.cs">
+      <DependentUpon>FormCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCadastroCinema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCadastroCinema.Designer.cs">
+      <DependentUpon>FormCadastroCinema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCine1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCine1.Designer.cs">
+      <DependentUpon>FormCine1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPerfil.Designer.cs">
+      <DependentUpon>FormPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCadastroFilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCadastroFilme.Designer.cs">
+      <DependentUpon>FormCadastroFilme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Ingresso.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Usuario.cs" />
+    <EmbeddedResource Include="FormAlterarSenha.resx">
+      <DependentUpon>FormAlterarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAssentos.resx">
+      <DependentUpon>FormAssentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAtualizarCinema.resx">
+      <DependentUpon>FormAtualizarCinema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAssinaturas.resx">
+      <DependentUpon>FormAssinaturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAtualizarFilme.resx">
+      <DependentUpon>FormAtualizarFilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCadastro.resx">
+      <DependentUpon>FormCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCadastroCinema.resx">
+      <DependentUpon>FormCadastroCinema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCine1.resx">
+      <DependentUpon>FormCine1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIngressos.resx">
+      <DependentUpon>FormIngressos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPerfil.resx">
+      <DependentUpon>FormPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCadastroFilme.resx">
+      <DependentUpon>FormCadastroFilme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="CineFront_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\CineFront.Models.Endereco.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\olhofechado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\olhoaberto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\fundo.png" />
+    <None Include="Resources\texto1.png" />
+    <None Include="Resources\olhofechado1.png" />
+    <None Include="Resources\olhoaberto1.png" />
+    <None Include="Resources\logo1.png" />
+    <None Include="Resources\iconLogin1.png" />
+    <None Include="Resources\gif1.gif" />
+    <None Include="Resources\fundo1.png" />
+    <Content Include="Resources\gif.gif" />
+    <Content Include="Resources\iconLogin.png" />
+    <Content Include="Resources\logo.png" />
+    <Content Include="Resources\texto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

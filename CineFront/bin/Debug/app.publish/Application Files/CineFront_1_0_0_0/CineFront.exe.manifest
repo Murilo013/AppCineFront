@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CineFront.exe" version="1.0.0.0" publicKeyToken="59e809eaa2c3df1d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CineFront" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CineFront.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto do UAC
+          Para alterar o nível de Controle de Conta de Usuário do Windows, substitua o nó
+          requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Para utilizar a Virtualização de Arquivos e Registro para manter a compatibilidade com versões anteriores,
+         exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CineFront.exe" size="267744">
+      <assemblyIdentity name="CineFront" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>oQRdf7ANDGQtX121Ipf8YqWmSdkz3CcJXhZchGQ5qho=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Guna.UI.dll" size="1136296">
+      <assemblyIdentity name="Guna.UI" version="1.9.0.1" publicKeyToken="AD275B4BE6718D4B" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>1zHsT6uoRIHRALhSgNkM3QvKWudKnUPYJR/czUAbz7c=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Guna.UI2.dll" size="1562792">
+      <assemblyIdentity name="Guna.UI2" version="2.0.0.3" publicKeyToken="AD275B4BE6718D4B" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>z4mZ1zfmVUn1r12jcj5y2VQZBpnz1yzA/4Darqazs9g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="711952">
+      <assemblyIdentity name="Newtonsoft.Json" version="13.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4eJ697B+7t9c5xqSVfBCKBam/FhJpIPGcU4bRyBE+p0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CineFront.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\fundo.png" size="3239">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>t+Cg1THLGEqnDxMhBh3LRsR//XGACdoDoavHeMXHtho=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\gif.gif" size="54855">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/AR1ppvoLi9Q79Dhq1vwRUGoJiq5UTsZDkQ8H5mlzC0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\iconLogin.png" size="17884">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yf8WIaAoBf6eLG95XEZDsITlDhMbBgNVBYrAhGVtp6k=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\logo.png" size="18778">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+STDad9yWpQJCv3kH5+mkwEqb/mugeCkAL0WSBqIOkQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\texto.png" size="5213">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZbNQ+WXbzQgIJ+g/pGXtUAN67Hsc4+ye6KQ7dQdrQxQ=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-P73098V\muril" issuerKeyHash="73cd777f5cda4b73e77218f14b2faa1f57ddd88b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>PDhnAFtN3KY6GmK5nLmZ22oy8SKGX7iFKhsleTLkawM=</DigestValue></Reference></SignedInfo><SignatureValue>AscWH1+C/rgs9axLgPISPj05bFGlJs8CZ71hqq3Y1yeCz5Cm3KHJKU/Hm+WA71xiBu9qqgQNnqnkgpvdIoB2OE7fGZsdjJKonhrIEjuTEE/eMlN3bY4kxm/KXMBeAlLHgdc+Ok6ULU9G/aEUvlB2wqmarFmOnO00zWDbnYgAjKY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>6JyB8ir215xVhHNv/vbM1SFQSlxpF8cdQFjjxud2nbS2BdDXZUk3yyAWvEQrDtn8sAb6J1nyF06xZxyu1kToRMYYpRtqEni3aCTXCi/vqvpQ6sqzaybo4TUMZ8oDA5D6yMs4nZl8lkNtf84ZsMNulrKCr0M6EPxRZE1t0KciBhk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="036be43279251b2a85b85f8622f1326adb99b99cb9621a3aa6dc4d5b0067383c" Description="" Url=""><as:assemblyIdentity name="CineFront.exe" version="1.0.0.0" publicKeyToken="59e809eaa2c3df1d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-P73098V\muril</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>XGTqYCG2GayrsR5+udEGDSvaoMvaq01w+BFNKnL6BHk=</DigestValue></Reference></SignedInfo><SignatureValue>v97CGK/icGeKYQRK+TG6m3sSAMp27wGFAOboS1O5QlS7lM8NQdJByrbGvyaiv2aiiuufIr0SV6fb0uztBbuoUBX3fpQ5ydoeCBLf+KVmk8t4SaQ9JEsW1i5OXX0Gh6DfdeeKLkfkyuU8XZcrIOX7CCQnjIrifIrdyO5QzUECVwE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>6JyB8ir215xVhHNv/vbM1SFQSlxpF8cdQFjjxud2nbS2BdDXZUk3yyAWvEQrDtn8sAb6J1nyF06xZxyu1kToRMYYpRtqEni3aCTXCi/vqvpQ6sqzaybo4TUMZ8oDA5D6yMs4nZl8lkNtf84ZsMNulrKCr0M6EPxRZE1t0KciBhk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQHxb53Cms4ZlKbA7OfHSBSjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFAANwAzADAAOQA4AFYAXABtAHUAcgBpAGwwHhcNMjUwMjA2MTgxMzA0WhcNMjYwMjA3MDAxMzA0WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFAANwAzADAAOQA4AFYAXABtAHUAcgBpAGwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOicgfIq9tecVYRzb/72zNUhUEpcaRfHHUBY48bndp20tgXQ12VJN8sgFrxEKw7Z/LAG+idZ8hdOsWccrtZE6ETGGKUbahJ4t2gk1wov76r6UOrKs2sm6OE1DGfKAwOQ+sjLOJ2ZfJZDbX/OGbDDbpaygq9DOhD8UWRNbdCnIgYZAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAEwxJzDU3miVi3QN5A00KbwrUrSeBVR/mPv1ifKyK8YOy7EGpExVItJb0WSNk9XsSrjEY2XlJ7/FjAgL9MCAsNzGzmYLem/0Oevi2pPEQQ78RlsgqbEI/gLvgA/5tbJLVB5H6lP26UQYkv50yoDUuWY4q4Thc+M7e+zjMx78i8qA=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

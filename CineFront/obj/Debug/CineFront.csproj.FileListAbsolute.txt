@@ -1,0 +1,105 @@
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\bin\Debug\CineFront.exe.config
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\bin\Debug\CineFront.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\bin\Debug\CineFront.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\bin\Debug\Guna.UI2.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.Properties.Resources.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.GenerateResource.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.Up2Date
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormCadastro.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormLogin.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormPrincipal.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormAssinatura.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormCine1.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormCadastroCinema.resources
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\bin\Debug\CineFront.exe.config
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\bin\Debug\CineFront.exe
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\bin\Debug\CineFront.pdb
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\bin\Debug\Newtonsoft.Json.dll
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\bin\Debug\Newtonsoft.Json.xml
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormAssinatura.resources
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormCadastro.resources
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormCadastroCinema.resources
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormCine1.resources
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormLogin.resources
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormPrincipal.resources
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.Up2Date
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.exe
+C:\Users\unisanta\Desktop\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\bin\Debug\CineFront.exe.config
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\bin\Debug\CineFront.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\bin\Debug\CineFront.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormAssinatura.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormCadastro.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormCadastroCinema.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormCine1.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormLogin.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormPrincipal.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.Properties.Resources.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.GenerateResource.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.csproj.Up2Date
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\bin\Debug\Guna.UI.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormAtualizarCinema.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Bim02Desafio\Bim02Desafio\CineFront\CineFront\obj\Debug\CineFront.FormPerfil.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\bin\Debug\CineFront.exe.config
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\bin\Debug\CineFront.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\bin\Debug\CineFront.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormAlterarSenha.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormAtualizarCinema.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormAssinatura.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormCadastro.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormCadastroCinema.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormCine1.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormLogin.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormPerfil.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormPrincipal.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.Properties.Resources.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.csproj.GenerateResource.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.csproj.Up2Date
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormAtualizarFilme.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormCadastroFilme.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormAssentos.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormAlterarSenha.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormAssentos.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormAtualizarCinema.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormAssinatura.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormAtualizarFilme.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormCadastro.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormCadastroCinema.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormCine1.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormLogin.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormPerfil.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormPrincipal.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormCadastroFilme.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.Properties.Resources.resources
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.csproj.GenerateResource.cache
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.exe
+C:\Users\muril\OneDrive\Área de Trabalho\BACKUP\Cine+\CineFront\CineFront\obj\Debug\CineFront.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.FormIngressos.resources
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\bin\Debug\CineFront.exe.manifest
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\bin\Debug\CineFront.application
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.exe.manifest
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineFront\CineFront\obj\Debug\CineFront.application
