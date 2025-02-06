@@ -47,6 +47,6 @@ porém se preferir dentro do repositório o arquivo chamado Cine+ Dowload.rar es
 ![tela principal](https://github.com/user-attachments/assets/cb0cab8b-d653-40e9-94da-354890788ca3)
 
 
-###🚀 Este projeto foi criado apenas para fins de aprendizado e não possui licença comercial.
+### 🚀 Este projeto foi criado apenas para fins de aprendizado e não possui licença comercial.
 
-###💬 Se você gostou desse projeto, feedbacks e sugestões são sempre bem-vindos!
+### 💬 Se você gostou desse projeto, feedbacks e sugestões são sempre bem-vindos!
