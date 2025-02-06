@@ -8,7 +8,12 @@ O Cine+ é um aplicativo desktop desenvolvido em C# Windows Forms com o objetivo
 
 ✨ Funcionalidades
 
-✅ Criar e gerenciar sua conta de usuário 🧑‍💻✅ Pesquisar cinemas e filmes disponíveis 🎥✅ Comprar ingressos online 🎟️✅ Consultar suas assinaturas 📄✅ Visualizar e gerenciar seus ingressos comprados 🎫✅ Editar suas informações de perfil ⚙️
+- ✅ Criar e gerenciar sua conta de usuário 🧑‍💻
+- ✅ Pesquisar cinemas e filmes disponíveis 🎥
+- ✅ Comprar ingressos online 🎟️
+- ✅ Consultar suas assinaturas 📄
+- ✅ Visualizar e gerenciar seus ingressos comprados 🎫
+- ✅ Editar suas informações de perfil ⚙️
 
 🛠️ Tecnologias Utilizadas
 
